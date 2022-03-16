@@ -2,4 +2,4 @@
 
 Download dataset: https://www.kaggle.com/karthickveerakumar/salary-data-simple-linear-regression
 
-Here Linear and polynomial regression's R2 SQAURE value is better than the other regressions
+Here Linear and polynomial regression's R2 score value is better than the other regressions
